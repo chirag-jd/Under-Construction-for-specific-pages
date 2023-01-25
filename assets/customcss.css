@@ -1,0 +1,4 @@
+.borderboxActive{border: 1px solid green; padding: 5px; background-color: #acd3ac; text-align: center;}
+.borderboxDeactive{border: 1px solid black; padding: 5px;}
+.modal-dialog{max-width: 50%;}
+.wqsubmit_message{display: block; text-align: center;}
